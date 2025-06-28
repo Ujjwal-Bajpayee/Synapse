@@ -13,8 +13,7 @@ Synapse is an intelligent, autonomous LinkedIn sourcing agent that discovers, sc
 ## 🛠️ Installation
 
 1. Install dependencies: `pip install -r requirements.txt`
-2. Copy `env_example.txt` to `.env`
-3. Add your Groq API key to `.env`
+2. Add your Groq API key to `.env`
 
 ## 🚀 Usage
 
@@ -125,13 +124,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## 📄 License
 
