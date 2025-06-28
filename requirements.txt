@@ -1,0 +1,8 @@
+groq==0.4.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+sqlite3
+python-dotenv==1.0.0
+asyncio
+aiohttp==3.9.1
+ratelimit==2.2.1 
